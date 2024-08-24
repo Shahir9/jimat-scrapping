@@ -1,0 +1,6 @@
+1.Pastikan ada python
+2.Install webdriver(dlm code menggunakan webdriver chrome)
+3.Install selenium
+-Setelah install di cmd,di pycharm,click File,Setting,Project Intrepeter..cari selenium dan install
+4.Run code(nota lain disertakan dalam file code)
+5.File csv terhasil tiada header dan ade blank row bg setiap data,boleh clean pkai excel.
