@@ -1,3 +1,4 @@
 <h1>Web Scrapping project</h1>
-Used jimat website as refference \n 
-Scrap product and saved into csv file
+<p></p>Used jimat website as refference</p> 
+
+<p>Scrap product and saved into csv file</p>
